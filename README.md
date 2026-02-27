@@ -64,15 +64,14 @@ The dashboard delivers insight across four focused views, with key indicators in
 - 2022 recorded as the peak sales year, followed by a partial correction in 2024
 
 **Transmission and Color**
-- Near equal transmission split with Automatic at 50.31% (25.15K) and Manual at 49.69% (24.85K), suggesting no strong buyer preference dominance
+- Near equal transmission split with Automatic at 49.69% (24.85K) and Manual at 50.31% (25.15K), suggesting no strong buyer preference dominance
 - Red emerged as the top performing color variant at 8.46K units, with Grey and Silver tied at 8.35K
 - All color variants perform within a very close range, indicating broad and balanced demand across color preferences
 
 **Fuel Type and Sales Classification**
 - Hybrid leads fuel type sales at 12.7K, followed by Petrol at 12.6K, Electric at 12.5K, and Diesel at 12.3K
 - Fuel type performance is closely distributed, reflecting BMW's diversified powertrain strategy
-- A striking 69.51% of all transactions are classified as high value sales, signaling a premium-leaning customer base across the entire portfolio
-
+- 69.51% of all transactions are classified as low value sales, with the remaining 30.49% falling under high value, reflecting a broad and accessible market reach across BMW's portfolio.
 ---
 
 ## Results
