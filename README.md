@@ -89,24 +89,9 @@ The project demonstrates a complete end-to-end analytical workflow — data wran
 
 ---
 
-## Repository Structure
-
-```
-BMW-Sales-PowerBI-Dashboard/
-│
-├── dataset/               # Raw data file (CSV/Excel)
-├── dashboard/             # Power BI file (.pbix)
-├── snapshots/             # Dashboard screenshots
-├── docs/                  # Project documentation (PDF)
-├── recording/             # Screen recording of dashboard walkthrough
-└── README.md              # Project overview (this file)
-```
-
----
-
 ## Connect with Me
 
 **Sai Deepak Poondla**
 Data Analyst | Power BI | SQL | Python | Tableau
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](http://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://necessary-quark-0ca.notion.site/Sai-Deepak-s-Portfolio-2e8174c2c52d8067aec8c582e216b1bb)
