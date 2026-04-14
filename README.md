@@ -93,4 +93,4 @@ The project demonstrates a complete end-to-end analytical workflow — data wran
 **Sai Deepak Poondla**
 Data Analyst | Power BI | SQL | Python | Tableau
 
-[LinkedIn](http://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://necessary-quark-0ca.notion.site/Sai-Deepak-s-Portfolio-2e8174c2c52d8067aec8c582e216b1bb)
+[LinkedIn](http://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://saideepakp.github.io)
